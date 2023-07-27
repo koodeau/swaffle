@@ -1,0 +1,10 @@
+{
+  "name": "swaffle",
+  "description": "Library for working with data structures and algorithms purely written in JavaScript.",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  }
+}
