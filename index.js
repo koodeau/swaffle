@@ -1,2 +1,2 @@
-export * from './tructures';
+export * from './structures';
 export * from './algorithms';
